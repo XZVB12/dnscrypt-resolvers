@@ -12,24 +12,11 @@ See the link below for more information:
 https://github.com/DNSCrypt/dnscrypt-proxy/wiki/Anonymized-DNS
 
 
-## anon-am-us
-
-Anonymized DNS relay hosted in Seattle - US
-sdns://gRQxMDQuMTY4LjI0Ny4xMzg6NDM0Mw
-
-
 ## anon-ams-nl
 
 Anonymized DNS relay hosted in Netherlands - NL
 
 sdns://gRE1MS4xNS4xMjQuMjA4OjQ0Mw
-
-
-## anon-charis
-
-Anonymized DNS relay by lucenera
-
-sdns://gRMxOTIuMjQxLjE1NC4xMzY6NDQz
 
 
 ## anon-cs-ca2
@@ -158,39 +145,32 @@ Anonymized DNS relay hosted in UK on DigitalOcean
 sdns://gR5bMmEwMzpiMGMwOjE6ZTA6OjJlMzplMDAxXTo0NDM
 
 
-## anon-edoardo
-
-Anonymized DNS relay by lucenera
-
-sdns://gRA1MS4xNS43MS4xNDc6NDQz
-
-
 ## anon-ev-to
 
 Anonymized DNS relay provided by evilvibes.com Location: Toronto, Canada
 
-sdns://gQ0yMy4xMTEuNjkuMjM4
+sdns://gQw2Ni44NS4zMC4xMTU
 
 
 ## anon-ev-va
 
 Anonymized DNS relay provided by evilvibes.com Location: Vancouver, Canada
 
-sdns://gQ4xMDQuMzYuMTQ5LjE3Nw
+sdns://gQ0yMy4xMTEuNzQuMjA1
 
 
 ## anon-ibksturm
 
 Hosted in Switzerland and maintained by @ibksturm, aka Andreas Ziegler.
 
-sdns://gQ84My43Ny44NS43Ojg0NDM
+sdns://gRA4NS41LjkzLjIzMDo4NDQz
 
 
 ## anon-ibksturm-ipv6
 
 Hosted in Switzerland and maintained by @ibksturm, aka Andreas Ziegler.
 
-sdns://gS5bMmEwMjoxMjA1OjM0ZDU6NTA3MDpiMjZlOmJmZmY6ZmUxZDplMTliXTo4NDQz
+sdns://gS5bMmEwMjoxMjA1OjUwNTU6ZGU2MDpiMjZlOmJmZmY6ZmUxZDplMTliXTo4NDQz
 
 
 ## anon-inconnu
@@ -210,9 +190,16 @@ sdns://gRIxMzcuNzQuMjIzLjIzNDo0NDM
 
 ## anon-meganerd
 
-Anonymized DNS relay hosted by MegaNerd.nl in Amsterdam, The Netherlands
+Anonymized DNS relay hosted by MegaNerd.nl (https://www.meganerd.nl/encrypted-dns-server) in Amsterdam, The Netherlands
 
-sdns://gRE5NS4xNzkuMTUxLjc5OjQ0Mw
+sdns://gRIyMDkuMjUwLjI0MS4yNTo0NDM
+
+
+## anon-meganerd-ipv6
+
+Anonymized DNS relay hosted by MegaNerd.nl (https://www.meganerd.nl/encrypted-dns-server) in Amsterdam, The Netherlands
+
+sdns://gStbMmEwNTpmNDgwOjE0MDA6NDM2OjU0MDA6MmZmOmZlYjg6OGQxY106NDQz
 
 
 ## anon-publicarray
@@ -266,13 +253,6 @@ sdns://gRtbMjAwMTpiYzg6MTgyNDoxNzBmOjoxXTo0NDM
 Anonymized DNS relay hosted in Sweden - SE
 
 sdns://gRE0NS4xNTMuMTg3Ljk2OjQ0Mw
-
-
-## anon-suami
-
-Anonymized DNS relay by lucenera
-
-sdns://gRE1MS4xNS4xNDMuMTIzOjQ0Mw
 
 
 ## anon-tiarap
